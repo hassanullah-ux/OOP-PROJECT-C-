@@ -1,0 +1,4 @@
+First type this in terminal
+g++ *.cpp -o my_program.exe
+Then type this in terminal
+.\my_program.exe
